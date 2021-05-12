@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Luka
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning Javascript
 <!---- 💞️ I’m looking to collaborate on ...--->
-<!---- 📫 How to reach me ...--->
+- 📫 How to reach me ... kikelj.luka@gmail.com
 
 <!---
 Luka85/Luka85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
