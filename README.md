@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Luka
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Javascript
+- 🌱 My skills: HTML, CSS(Bootstrap)
 <!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me ... kikelj.luka@gmail.com
 
