@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luka
 - 👀 I’m interested in coding
+- :mortar_board: My skills: HTML, CSS(Bootstrap)
 - 🌱 I’m currently learning Javascript
-- 🌱 My skills: HTML, CSS(Bootstrap)
 <!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me ... kikelj.luka@gmail.com
 
