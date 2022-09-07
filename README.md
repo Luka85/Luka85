@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Luka
-- 👀 I’m interested in coding
-- :mortar_board: My skills: HTML, CSS(Bootstrap)
-- 🌱 I’m currently learning Javascript
-<!---- 💞️ I’m looking to collaborate on ...--->
-- 📫 How to reach me ... kikelj.luka@gmail.com
+
+- :mortar_board: My skills: HTML, CSS, Sass, Javascript
+<!---- 💞️Feel free to reach out if you're looking for a developer, have a question, or just want to connect. --->
+- 📫 How to reach me ...https://lukakikelj.com/ & kikelj.luka@gmail.com
 
 <!---
 Luka85/Luka85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
