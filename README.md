@@ -4,6 +4,8 @@
 <!---- 💞️Feel free to reach out if you're looking for a developer, have a question, or just want to connect. --->
 - 📫 How to reach me ...https://lukakikelj.com/ & kikelj.luka@gmail.com & https://www.linkedin.com/in/luka-kikelj/
 
+<img src="https://github-readme-stats.vercel.app/api?username=Luka85&show_icons=true"/>
+
 <!---
 Luka85/Luka85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
