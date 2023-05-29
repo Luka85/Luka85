@@ -5,7 +5,7 @@
 - 📫 How to reach me ... [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luka-kikelj/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kikelj.luka@gmail.com)
 
-[![Portfolio]<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>](https://lukakikelj.com/) 
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>](https://lukakikelj.com/) 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Luka85&theme=blue-green"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luka85&theme=blue-green"/>
