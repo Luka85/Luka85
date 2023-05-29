@@ -6,7 +6,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Luka85&show_icons=true&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luka85&theme=dark"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Luka85&theme=dark"/>
+
 
 <!---
 Luka85/Luka85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
