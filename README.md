@@ -4,7 +4,7 @@
 <!---- 💞️Feel free to reach out if you're looking for a developer, have a question, or just want to connect. --->
 - 📫 How to reach me ...[https://lukakikelj.com/] & [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luka-kikelj/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kikelj.luka@gmail.com)
-https://github-readme-stats.vercel.app/api?username={Luka85}&theme=blue-green
+
 <img src="https://github-readme-stats.vercel.app/api?username=Luka85&theme=blue-green"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luka85&theme=blue-green"/>
 
